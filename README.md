@@ -8,6 +8,8 @@ usage :
 -m,--mac   :  to specify the new(spoofed) mac address , eg : 00:11:22:33:44:55 
 -h , --help  : to get the help , of how to use the programm.
 
+use : pip install -r requirements.txt  , to install all dependency.
+
 requirement:
 subprocess
 termcolor
